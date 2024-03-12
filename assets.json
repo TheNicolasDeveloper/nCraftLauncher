@@ -1,0 +1,76 @@
+{
+    "objects": {
+        "assets.d.ts": {
+            "hash": "b9d1467e2b8b9e67630f784255b565dd",
+            "size": 623
+        },
+        "entitlements.mac.plist": {
+            "hash": "9920b60c89256ceca825062dc9c53c53",
+            "size": 333
+        },
+        "icon.icns": {
+            "hash": "e5345089314cddb283d824fe016fb77d",
+            "size": 111909
+        },
+        "icon.ico": {
+            "hash": "5981c79ee7d4e7d981b40d4968980e2a",
+            "size": 370070
+        },
+        "icon.png": {
+            "hash": "1877c348a4dd2adeec8c3a0e7ef672cc",
+            "size": 9979
+        },
+        "icon.svg": {
+            "hash": "6e21449b8640ba1dcf485c7f4fabbd2f",
+            "size": 3373
+        },
+        "icons\\1024x1024.png": {
+            "hash": "428ad52ccace3ab4d559540713790b83",
+            "size": 159736
+        },
+        "icons\\128x128.png": {
+            "hash": "6aa5f2a9767831b288c78046708380f4",
+            "size": 17611
+        },
+        "icons\\16x16.png": {
+            "hash": "8bde7ad386e89ba126f9060a93354c7b",
+            "size": 954
+        },
+        "icons\\24x24.png": {
+            "hash": "3bf80d21acfce24b277f8feb8d5c8262",
+            "size": 1907
+        },
+        "icons\\256x256.png": {
+            "hash": "7e5516ef89178e8141b03bcfec3b43ae",
+            "size": 32456
+        },
+        "icons\\32x32.png": {
+            "hash": "3acb49c974aee4d6d63d46b4635cc7c8",
+            "size": 2017
+        },
+        "icons\\48x48.png": {
+            "hash": "87e6d96c2ef9ca33e42088bb9f013360",
+            "size": 5159
+        },
+        "icons\\512x512.png": {
+            "hash": "5e401571e30120451665474f9097fa92",
+            "size": 79296
+        },
+        "icons\\64x64.png": {
+            "hash": "d44ed6df6903e1297c0746a271fc2bc4",
+            "size": 7454
+        },
+        "icons\\96x96.png": {
+            "hash": "7d25b833104f027a1b1ca8d78636bc69",
+            "size": 12526
+        },
+        "images\\background.png": {
+            "hash": "a2cd87a75dc202a4a4ee99d290f881c5",
+            "size": 3623690
+        },
+        "images\\Grass_Block.png": {
+            "hash": "1877c348a4dd2adeec8c3a0e7ef672cc",
+            "size": 9979
+        }
+    }
+}
